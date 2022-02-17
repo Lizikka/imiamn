@@ -185,6 +185,7 @@ p { font-weight: 400;}
 
 body {
     font-family: 'Montserrat';
+	max-width: 1200px;
 
 }
 .container {
