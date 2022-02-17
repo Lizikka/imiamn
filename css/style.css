@@ -820,7 +820,8 @@ font-weight: 600;
     width: 56px;
     height: 100px;
 }
-.footer__copy {
+.footer__copy p {
+	font-size: 17px;
 }
 .footer__logo {
     
