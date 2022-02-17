@@ -71,6 +71,9 @@ body {
     font-size: 18px;
     line-height: 26px;
 }
+.block-contacts a {
+    display: inline-block;
+}
 
 .block-contacts span {
    width: 300px;
